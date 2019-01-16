@@ -1,5 +1,4 @@
-# cs7642_project_2
-Lunar Lander
+# Lunar Lander Agent
 
 Setup
 1. Install Python 3.5, gym, numpy, matplotlib, keras, and tensorflow
